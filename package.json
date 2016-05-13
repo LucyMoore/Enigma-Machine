@@ -1,0 +1,19 @@
+{
+  "name": "enigma-machine",
+  "version": "1.0.0",
+  "description": "based on the german enigma machine for encrypting code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucyMoore/Enigma-Machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucyMoore/Enigma-Machine/issues"
+  },
+  "homepage": "https://github.com/LucyMoore/Enigma-Machine#readme"
+}
