@@ -1,9 +1,15 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+//mport Input from './components/input'
+import Delegate from './components/delegate'
+
+
 
 ReactDOM.render(
   
-<h2></h2>,
+<div>
+<Delegate />
+</div>,
 
  document.getElementById('content')
 )
